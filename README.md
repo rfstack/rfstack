@@ -5,7 +5,32 @@
 Me chamo Rafael Ferreira Soares Pinto e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília.
 Sou Desenvolvedor Fullstack apaixonado por tecnologia, desenvolvimento de software e criação de soluções que unem praticidade, organização e eficiência.
 
+<p align="left">
+    
+  <a href="https://www.linkedin.com/in/rafaelferreirasoares/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:rafa339.rf@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://wa.me/5531986960150" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="WhatsApp"
+    />
+  </a>
+</p>
+
 ---
+
 
 ### 🤖 Linguagens e Tecnologias
 
