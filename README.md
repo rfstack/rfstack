@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Rafael Ferreira
+#  Rafael Ferreira
 
 **`Desenvolvedor FullStack`**
 
